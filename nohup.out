@@ -1,0 +1,6 @@
+Pachd port forwarded
+Dash websocket port forwarded
+Dash UI port forwarded, navigate to localhost:30080
+CTRL-C to exitE0214 07:56:59.762615   24189 portforward.go:316] error copying from local connection to remote stream: read tcp4 127.0.0.1:30650->127.0.0.1:34550: read: connection reset by peer
+E0214 07:57:25.511422   24189 portforward.go:316] error copying from local connection to remote stream: read tcp4 127.0.0.1:30650->127.0.0.1:34560: read: connection reset by peer
+E0214 07:57:32.448200   24189 portforward.go:316] error copying from local connection to remote stream: read tcp4 127.0.0.1:30650->127.0.0.1:34562: read: connection reset by peer
