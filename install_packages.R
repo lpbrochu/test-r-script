@@ -1,5 +1,5 @@
-install.packages(c("pacman"),
+install.packages("pacman",
                  repos = "http://lib.stat.cmu.edu/R/CRAN", 
                  dependencies = TRUE)
 
-pacman::p_load("rsconnect", "RCurl", "RJSONIO", "PKI")
+pacman::p_load("rsconnect")
